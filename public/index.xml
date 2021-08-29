@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Kevin Patel</title>
+    <link>https://kevinpatel.xyz/</link>
+    <description>Recent content on Kevin Patel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 28 Aug 2021 19:56:11 -0500</lastBuildDate><atom:link href="https://kevinpatel.xyz/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
