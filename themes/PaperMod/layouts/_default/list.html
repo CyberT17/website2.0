@@ -59,7 +59,11 @@
     {{- partial "post_meta.html" . -}}
   </footer>
   {{- end }}
+  {{ if .Params.canonicalUrl }}
+  <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Params.canonicalUrl }}"></a>
+  {{ else }}
   <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
+  {{ end }}
 </article>
 {{- end }}
 
