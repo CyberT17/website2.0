@@ -22,6 +22,12 @@
   </header>
   {{- $isHidden := .Params.cover.hidden | default .Site.Params.cover.hiddenInSingle | default .Site.Params.cover.hidden }}
   {{- partial "cover.html" (dict "cxt" . "IsHome" false "isHidden" $isHidden) }}
+  {{- if (.Param "githubRepo") }}
+  <div style="padding-left:25%">
+    <div class="github-card" data-github="{{ .Params.githubRepo }}" data-width="400" data-height="179" data-theme="default"></div>
+  </div>
+  <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
+  {{- end }}
   {{- if (.Param "ShowToc") }}
   {{- partial "toc.html" . }}
   {{- end }}

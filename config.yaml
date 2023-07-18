@@ -20,12 +20,10 @@ params:
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
-
-  #    ShowReadingTime: true
-  #    ShowShareButtons: true
+  ShowShareButtons: true
   ShowPostNavLinks: false
   ShowBreadCrumbs: true
-  ShowCodeCopyButtons: false
+  ShowCodeCopyButtons: true
   disableSpecial1stPost: false
   disableScrollToTop: false
   comments: false
