@@ -1,5 +1,7 @@
 # Source Code for Kevin's Personal Website
 
+Using a modified version of [Hugo PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme.
+
 ## To start the hugo server
 
 ```bash
