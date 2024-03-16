@@ -1,7 +1,6 @@
 ---
 title: "Movieguessr [movie.kevinpatel.xyz]"
 draft: false
-weight: 5
 canonicalUrl: "https://movie.kevinpatel.xyz"
 ---
 

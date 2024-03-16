@@ -2,7 +2,6 @@
 title: "Obsidian Day and Night Plugin"
 summary: "An Obsidian plugin to automatically switch between day and night themes based on a set schedule"
 draft: false
-weight: 1
 ShowReadingTime: true
 author: ["Kevin Patel"]
 date: 2022-07-28
