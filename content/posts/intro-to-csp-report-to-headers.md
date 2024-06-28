@@ -1,7 +1,7 @@
 ---
 title: "Intro to CSP report-to and report-uri HTTP headers"
 date: 2024-06-27T13:43:47-05:00
-draft: true
+draft: false
 ShowToc: true
 ---
 
