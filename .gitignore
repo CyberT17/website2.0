@@ -4,9 +4,10 @@
 ### Hugo ###
 # Generated files by hugo
 /public/
-/resources/_gen/
+/resources/
 /assets/jsconfig.json
 hugo_stats.json
+.vscode/
 
 # Executable may be added to repository
 hugo.exe
