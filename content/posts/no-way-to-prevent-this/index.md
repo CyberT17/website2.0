@@ -1,6 +1,6 @@
 +++
 date = '2026-05-15T18:37:53-05:00'
-draft = true
+draft = false
 title = '‘No Way To Prevent This,’ Says Only Package Manager Where This Regularly Happens'
 toc = false
 +++
