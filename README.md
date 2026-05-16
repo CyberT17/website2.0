@@ -1,6 +1,6 @@
 # Source Code for Kevin's Personal Website
 
-Using a modified version of [Hugo PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme.
+Using a modified version of [Hugo Blog Awesome Theme](https://github.com/hugo-sid/hugo-blog-awesome) theme.
 
 ## To start the hugo server
 
@@ -11,9 +11,9 @@ hugo server -D
 ## To create a new page under a main menu item
 
 ```bash
-hugo new --kind post posts/url-path.md
+hugo new posts/url-path.md
 ```
 
 ## To add a Github card
 
-- Add `{{< github-repo url="CyberT17/secblogs" >}}` to the markdown of the page
+- Add `{{< githubButton url="CyberT17/secblogs" >}}` to the markdown of the page

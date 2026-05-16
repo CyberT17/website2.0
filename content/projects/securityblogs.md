@@ -1,14 +1,12 @@
----
-title: "securityblogs.xyz"
-summary: "A simple webpage that aggregates security related news and blog posts"
-date: 2024-03-16T15:12:26-05:00
-draft: false
-ShowReadingTime: true
-author: ["Kevin Patel"]
-ShowToc: false
----
++++
+date = '2024-03-16T15:12:26-05:00'
+draft = false
+title = 'securityblogs.xyz'
+summary = "A simple webpage that aggregates security related news and blog posts"
+toc = false
++++
 
-{{< github-repo url="CyberT17/secblogs" >}}
+{{< githubButton url="CyberT17/secblogs" >}}
 
 [Security Blogs](https://securityblogs.xyz/) (secblogs) is a simple website that aggregates a bunch of news sites and blogs and displays it on a single page. Original inspiration came from [Engineering blogs](https://engineeringblogs.xyz/) and I ended up using a similar layout for secblogs.
 
